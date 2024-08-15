@@ -16,4 +16,4 @@
 7. After that you press on the controller button that shows up
 <img src = "IMG_0866.png" width = "250" height = "500">
 8. You can now press on the start button. It should be green and once you press on it the button to turn it off should also become available.
-9. <img src = "IMG_0867.png" width = "250" height = "500">
+9. <img src = "IMG_0867.png" width = "500" height = "250">
