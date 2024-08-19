@@ -1,5 +1,5 @@
 # Lego-Mindstorms-Guide
-### This is a guide on how to use the lego mindstorms
+### Det her er en guide til hvordan man kan kom igang med at bruge lego mindstorms
 
 1. Åbn appen og gå igennem de første trin. Rul til højre, indtil du finder Blast, og tryk derefter på det.
 <p align="center">
